@@ -1,0 +1,10 @@
+Alert-message: "Alert: {message}" # {message} = message placeholder
+
+No-Permission: "You do not have permission to use this command"
+Incorrect-Usage: "Usage: /alert <message>"
+
+Sound: "BLOCK_NOTE_BLOCK_BELL" # Leave empty to disable (Must have protocolize)
+Pitch: 0.0f
+ActionBar: true # While true the message will also appear on the player's actionbar
+
+Permission: "VelocityAlert.use"
